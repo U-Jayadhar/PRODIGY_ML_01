@@ -53,7 +53,7 @@ The `train.csv` dataset is split into training and testing sets. The linear regr
 ## Results
 
 - **Mean Squared Error (MSE):** 1827824884.344168
-- The `predicts.csv` is the output file with predicted house prices for the test dataset.
+- The `predicts.csv` is the output file with predicted house prices for the `test.csv` dataset.
 
 ## Acknowledgments
 
