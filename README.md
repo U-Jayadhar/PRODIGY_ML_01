@@ -48,7 +48,7 @@ The model uses the following features to predict house prices:
 
 ### Training and Evaluation
 
-The dataset is split into training and testing sets. The linear regression model is trained on the training set and evaluated on the testing set. The model's performance is measured using Mean Squared Error (MSE).
+The `train.csv` dataset is split into training and testing sets. The linear regression model is trained on the training set and evaluated on the testing set. The model's performance is measured using Mean Squared Error (MSE).
 
 ## Results
 
