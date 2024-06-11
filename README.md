@@ -57,5 +57,12 @@ The `train.csv` dataset is split into training and testing sets. The linear regr
 
 ## Acknowledgments
 
-- This project is based on the [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition on Kaggle.
+This project is based on the [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition on Kaggle.
 
+## Contact
+
+For any queries or suggestions, feel free to contact me 
+
+Linkedin: [Jayadhar Ummadingu](https://www.linkedin.com/in/jayadhar-ummadisingu-2a825b25a/)
+
+E-mail: jummadis@gitam.in
