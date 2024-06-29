@@ -1,40 +1,42 @@
-# **PRODIGY_ML_01** 
+# **PRODIGY_ML_01**
 
 ## Task-1 of ML Internship at Prodigy Infotech
-*Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.*
+
+_Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms._
 
 ## Program Structure
 
 - `README.md`: Project documentation.
 - `ML Task-1`: Contains all the files of the project
-    - `train.csv`: The dataset used for training the model (you need to provide this file).
-    - `t-1_model.ipynb`: Jupyter Notebook containing the code for training and evaluating the linear regression model.
-    - `test.csv`: The test dataset used for making predictions.
-    - `predicts.csv`: The output file with predicted house prices for the test dataset.
+  - `train.csv`: The dataset used for training the model (you need to provide this file).
+  - `t-1_model.ipynb`: Jupyter Notebook containing the code for training and evaluating the linear regression model.
+  - `test.csv`: The test dataset used for making predictions.
+  - `predicts.csv`: The output file with predicted house prices for the test dataset.
 
 ## Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/U-Jayadhar/PRODIGY_ML_01.git
-    ```
+   ```sh
+   git clone https://github.com/U-Jayadhar/PRODIGY_ML_01.git
+   ```
 2. Navigate to the project directory:
-    ```sh
-    cd PRODIGY_ML_01
-    ```
+   ```sh
+   cd PRODIGY_ML_01
+   ```
 
 ## Usage
 
 1. Ensure you have the `train.csv` file in the project directory.
 2. Open and run the Jupyter Notebook `t-1_model.ipynb` to train the model and make predictions:
-    ```sh
-    jupyter notebook t-1_model.ipynb
-    ```
+   ```sh
+   jupyter notebook t-1_model.ipynb
+   ```
 3. The predictions of `test.csv` will be saved in `predicts.csv`.
 
 ## Model
 
 The model uses the following features to predict house prices:
+
 - `GrLivArea`: Above ground living area square footage.
 - `BedroomAbvGr`: Number of bedrooms above ground.
 - `FullBath`: Number of full bathrooms.
@@ -61,7 +63,7 @@ This project is based on the [House Prices - Advanced Regression Techniques](htt
 
 ## Contact
 
-For any queries or suggestions, feel free to contact me 
+For any queries or suggestions, feel free to contact me
 
 Linkedin: [Jayadhar Ummadingu](https://www.linkedin.com/in/jayadhar-ummadisingu-2a825b25a/)
 
